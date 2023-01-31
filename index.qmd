@@ -1,0 +1,4 @@
+---
+title: "project0"
+---
+check out the navbar and sidebar!

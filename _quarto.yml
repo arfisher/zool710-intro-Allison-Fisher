@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "project0"
+  navbar:
+    title: "project0"
+    background: light
+    foreground: success
+    font-size: 3
+    right:
+      - file: home.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: contact
+  sidebar:
+     style: "floating"
+     background: dark
+     border: true
+     tools:
+      - icon: flower1
+        href: https://google.com
+      - icon: github
+        url:  https://github.com/arfisher/zool710-intro-Allison-Fisher
+
+
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    mainfont: times
+    fontsize: 1em
+    fontcolor: green
+    linkcolor: lavender
