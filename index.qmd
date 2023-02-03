@@ -5,3 +5,5 @@ bibliography: my-refs.bib
 I am taking this class to improve my fluency in R to make figures and apply statistic analysis in future work.
 ---
 My current focus is on clarifying cryptic genera *Oreophryne A* and *B* from [@HILL2022107618]
+
+![This is the genus we get to rename!! We're thinking to call it *Auparoparo* from the indigenous words for "tree frog"](386-0011.jpg)

@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Allison Fisher"
   navbar:
@@ -20,7 +20,6 @@ website:
 format:
   html:
     theme: quartz
-    css: styles.css
     toc: true
     font-family: Georgia, serif;
     font-size: 1.2em;
