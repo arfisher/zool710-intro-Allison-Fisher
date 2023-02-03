@@ -1,4 +1,7 @@
 ---
-title: "project0"
+title: "Allison's Rclass Website"
+bibliography: my-refs.bib
 ---
-check out the navbar and sidebar!
+I am taking this class to improve my fluency in R to make figures and apply statistic analysis in future work.
+---
+My current focus is on clarifying cryptic genera *Oreophryne A* and *B* from [@HILL2022107618]
