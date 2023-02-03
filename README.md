@@ -1,2 +1,2 @@
 #project0
-this website was made to play around with different settings on quarto
+This is my first project for Rclass ZOOL710 sp2023
